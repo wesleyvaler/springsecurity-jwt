@@ -41,7 +41,5 @@ public class Cliente {
 		super();
 		this.id = id;
 		this.nome = nome;
-	}
-	
-	
+	}	
 }

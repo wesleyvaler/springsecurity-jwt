@@ -1,5 +1,6 @@
 package com.github.wesleyvaler.rest.dto;
 
-public class AtualizacaoStatusPedidoDTO {
 
+public class AtualizacaoStatusPedidoDTO {
+    private String novoStatus;
 }

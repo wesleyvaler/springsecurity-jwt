@@ -34,7 +34,7 @@ public class Usuario {
 	public String getLogin() {
 		return login;
 	}
-
+ 
 	
     
 }
